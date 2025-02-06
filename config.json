@@ -1,5 +1,5 @@
 {
-  "_name_or_path": "cognitivecomputations/Dolphin3.0-Mistral-24B",
+  "_name_or_path": "cognitivecomputations/Dolphin3.0-R1-Mistral-24B",
   "architectures": [
     "MistralForCausalLM"
   ],
