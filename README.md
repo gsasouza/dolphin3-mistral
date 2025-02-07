@@ -55,6 +55,10 @@ Just as you are personally responsible for what you do with a knife, gun, fire, 
 
 https://erichartford.com/uncensored-models
 
+## Quants
+
+https://huggingface.co/bartowski/cognitivecomputations_Dolphin3.0-R1-Mistral-24B-GGUF
+
 ## Chat Template
 
 We use ChatML for the chat template.
