@@ -18,6 +18,8 @@ language:
 - en
 base_model:
 - mistralai/Mistral-Small-24B-Base-2501
+pipeline_tag: text-generation
+library_name: transformers
 ---
 
 # Dolphin 3.0 R1 Mistral 24B 🐬
