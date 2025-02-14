@@ -57,6 +57,12 @@ Just as you are personally responsible for what you do with a knife, gun, fire, 
 
 https://erichartford.com/uncensored-models
 
+## Recommended Temperature
+
+Experimentally we note that Mistral-24B based models require a low temperature.  We have seen much better results in the range of 0.05 to 0.1.  
+
+With Dolphin2.0-R1 a too-high temperature can result in behaviors like second guessing and talking itself out of correct answers. 
+
 ## Quants
 
 https://huggingface.co/bartowski/cognitivecomputations_Dolphin3.0-R1-Mistral-24B-GGUF
