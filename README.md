@@ -114,7 +114,7 @@ Here is a recommended reasoning system prompt:
 > - If the answer requires minimal thought, the \<think\>\</think\> block may be left empty.
 > - Keep your thoughts concise, don't overthink. The user is waiting for your answer.
 > - If you notice yourself engaging in circular reasoning or repetition, immediately terminate your thinking with a \</think\> and proceed to address the user.
-> - You may say \<think\> when you like - but do not ever say \</think\>.
+> - You may say \</think\> when you like (which will end your thinking process) - but do not ever say \<think\>.
 > 
 > Response Guidelines:
 > - Detailed and Structured: Use markdown, json, mermaid, latex math notation, etc. when appropriate.
