@@ -67,7 +67,7 @@ With Dolphin2.0-R1 a too-high temperature can result in behaviors like second gu
 
 https://huggingface.co/bartowski/cognitivecomputations_Dolphin3.0-R1-Mistral-24B-GGUF
 
-## Run Dolphin in Ollama
+## Run Dolphin in Ollama (13 GB)
 
 ```
 wget https://huggingface.co/cognitivecomputations/Dolphin3.0-R1-Mistral-24B/resolve/main/Modelfile
