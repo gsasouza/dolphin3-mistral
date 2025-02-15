@@ -67,6 +67,14 @@ With Dolphin2.0-R1 a too-high temperature can result in behaviors like second gu
 
 https://huggingface.co/bartowski/cognitivecomputations_Dolphin3.0-R1-Mistral-24B-GGUF
 
+## Run Dolphin in Ollama
+
+```
+wget https://huggingface.co/cognitivecomputations/Dolphin3.0-R1-Mistral-24B/resolve/main/Modelfile
+ollama create dolphin3-r1
+ollama run dolphin3-r1
+```
+
 ## Chat Template
 
 We use ChatML for the chat template.
