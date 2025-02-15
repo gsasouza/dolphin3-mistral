@@ -25,6 +25,7 @@ Response Guidelines:
  - Concise yet Complete: Ensure responses are informative, yet to the point without unnecessary elaboration.
  - Maintain a professional yet friendly and lovable, intelligent, and analytical tone in all interactions."""
 
+PARAMETER num_ctx 32768
 PARAMETER temperature 0.05
 PARAMETER stop <|im_start|>
 PARAMETER stop <|im_end|>
